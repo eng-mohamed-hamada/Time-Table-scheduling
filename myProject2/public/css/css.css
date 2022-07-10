@@ -1,0 +1,166 @@
+.navbar-inverse .navbar-nav>li>a,.navbar-inverse .navbar-brand{
+    color:#FFF;
+}
+.navbar-inverse{
+    background-color:#4267b2;
+}
+.thelinks li:hover{
+    background-color:#00F;
+}
+.badge{
+    background-color:#F00;
+}
+
+
+
+/**start content**/
+.content{
+    padding-top:70px;
+    padding-bottom:30px;
+    min-height:600px;
+    background-color:#b2acac;
+    
+}
+.content .main_content .main_direct,.content .sidebar{
+    background-color:#FFF;
+}
+
+.content .sidebar{
+    padding:0px;
+}
+
+.content .sidebar li{
+    padding:10px;
+    border-bottom:2px solid #DDD;
+    cursor:pointer;
+}
+
+.active{
+    padding:10px;
+    border-bottom:none;
+    font-weight:bold;
+}
+.content .sidebar li a{
+    width:100%;
+    height:100%;
+}
+
+.main_direct{
+    padding:10px;
+}
+.content .sidebar li:hover,.content .sidebar li:hover a{
+    background-color:#DDD;
+    color:#000;
+    text-decoration: none;
+}
+.content .sidebar li:last-of-type{
+    border-bottom:0px;
+}
+.sidebar ul{
+    margin-bottom:0px;
+}
+.active,.active a{
+    color:#FFF;
+    text-decoration: none;
+}
+#doctor_subjects{
+    padding-top:50px;
+}
+
+/**start footer**/
+.footer{
+    background-color:#333;
+    color:#EEE;
+    padding:20px 10px;
+}
+/*********************/
+
+#scroll-top, .thenav{
+    background-color:#00f;
+    cursor:pointer;
+    color:#FFF;
+    font-size:20px;
+    font-weight:bold;
+    position:fixed;
+    right:20px;
+    text-decoration:none;
+    bottom:50px;
+    padding:10px;
+    border-radius:50%;
+    display:none
+}
+.thenav{
+    bottom:50px;
+    left:0;
+    right:auto;
+    border-radius: 0;
+    font-size:30px;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    z-index:1;
+}
+a{
+    color:#000;
+}
+.checkbox, .radio{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+.table>tbody>tr>td{
+    vertical-align:middle;
+}
+
+.Academic_Registry{
+    direction:rtl;
+}
+table{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/**start media query**/
+@media(max-width:767px){/*mobile and tablet*/
+    .sidebar{
+        position:fixed;
+        left:0px;
+        top:50px;
+        height:500px;
+        z-index:1;
+        overflow-y:scroll;
+        display:none;
+        box-shadow:3px 3px 3px rgba(3,3,3,0.5);
+    }
+    .sidebar ul:last-child{
+        padding-bottom:50px;
+    }
+    
+    .content{
+        padding-left:0px;
+        padding-right:0px;
+        padding-bottom:0px;
+        padding-top:55px;
+    }
+
+    .content .main_content{
+        padding-left:0px;
+        padding-right:0px;
+    }
+
+    
+}
+
+
+@media(min-width:768px) and (max-width:991px){
+    /*small screen*/
+    .friends{
+        height:250px;
+    }
+    
+}
+@media(min-width:992px) and (max-width:1199px){
+    /*medium screen*/
+    
+}
+@media(min-width:1200px){/*large screen*/
+    
+}

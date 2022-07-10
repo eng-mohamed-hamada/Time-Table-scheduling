@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mohamed/myProject2/resources/views/auth/register.blade.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_201024_create_departments_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/resources/views/auth/login_admin.blade.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/routes/web.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_08_135651_modfications.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_200327_create_teach_methods_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/.env</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_201131_create_doctor_day_time_slots_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/app/Http/Controllers/teach_methods.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_200443_create_devision_types_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/resources/views/auth/login.blade.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_200955_create_depart_subjects_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_08_172317_create_admins_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_200606_create_doctor_subjects_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_200859_create_groups_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_201208_create_place_days_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_201100_create_days_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_201250_create_time_slots_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_201219_create_places_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/config/auth.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/resources/views/auth/register_admin.blade.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/app/admins.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_200915_create_level_groups_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/resources/views/welcome.blade.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_200740_create_student_subjects_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/app/Http/Kernel.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/resources/views/admins/days.blade.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/app/doctor_accounts.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_200759_create_students_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/app/Providers/AppServiceProvider.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/app/User.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_200823_create_levels_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_201009_create_doctors_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_201232_create_place_day_time_slots_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/resources/views/admins/subjects.blade.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/app/Http/Middleware/RedirectIfAuthenticated.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/app/teach_method.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_200701_create_degrees_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2019_12_07_201040_create_doctor_days_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/C:/Users/mohamed/myProject2/resources/views/admins/teach_methods.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
